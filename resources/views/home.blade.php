@@ -1,14 +1,14 @@
 <x-app-layout>
 
     <div class="py-12">
-        <div class="max-w-7xl px-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
+        <div class=" px-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
             <h1 class="mb-4 text-emerald-100 text-2xl font-extrabold dark:text-emerald-50 md:text-5xl lg:text-6xl" style="font-family: 'Lora', serif;">
                 <span class="block mb-4 sm:text-xl md:text-2xl lg:text-3xl">Hi! I'm a Software Engineer <span class="invisible md:visible">and</span></span>
                 <span class="block text-transparent bg-clip-text bg-gradient-to-r to-emerald-700 from-emerald-400">I Build Remarkable Products <br> From  Inception to Launch</span> 
                 <br>
                 {{-- <span class="sm:mt-4 sm:text-lg md:text-xl lg:text-2xl animate-pulse pb-2 border-b-2 border-lime-200 ">View Projects </span><br> --}}
             </h1>
-            <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-4 bottom-20 float-center">
+            <div class="flex mt-4 space-x-6 sm:justify-left sm:mt-4 bottom-20">
                 <a href="https://www.linkedin.com/in/nishanthkd/" target="_tab" class="text-lime-50 hover:text-lime-200 dark:hover:text-white">
                     <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path  fill-rule="evenodd" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
                     <span class="sr-only">LinkedIn account</span>
@@ -41,7 +41,7 @@
     
 
     <div class="pt-24 max-max-w-screen dark text-emerald-100" id="projects">
-        <div class="max-w-7xl px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
+        <div class=" px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
             <h1 class="mb-4 text-emerald-100 text-2xl font-extrabold dark:text-emerald-50 md:text-5xl lg:text-6xl" style="font-family: 'Lora', serif;">
                 <span class="block mb-4 sm:text-lg md:text-2xl lg:text-3xl">My <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-emerald-400">Projects</span></span>
             </h1>
@@ -110,7 +110,7 @@
     </div>
 
     <div class="pt-24 max-w-screen dark" id="blog">
-        <div class="max-w-7xl px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
+        <div class=" px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
             <h1 class="mb-4 text-emerald-100 text-2xl font-extrabold dark:text-emerald-50 md:text-5xl lg:text-6xl" style="font-family: 'Lora', serif;">
                 <span class="block mb-4 sm:text-lg md:text-2xl lg:text-3xl">My <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-emerald-400">Blog</span></span>
             </h1>
@@ -166,7 +166,7 @@
     </div>
 
     <div class="pt-24 max-w-screen" id="journey">
-        <div class="max-w-7xl px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
+        <div class=" px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
             <h1 class="mb-4 text-emerald-100 text-2xl font-extrabold dark:text-emerald-50 md:text-5xl lg:text-6xl" style="font-family: 'Lora', serif;">
                 <span class="block mb-4 sm:text-lg md:text-2xl lg:text-3xl">My <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-emerald-400">Journey</span> in Tech</span>
             </h1>
@@ -238,12 +238,12 @@
     </div>
 
     <div class="py-12 max-w-screen" id="contact"> 
-        {{-- <div class="max-w-7xl px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
+        {{-- <div class=" px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
             <h1 class="mb-4 text-emerald-100 text-2xl font-extrabold dark:text-emerald-50 md:text-5xl lg:text-6xl" style="font-family: 'Lora', serif;">
                 <span class="block mb-4 sm:text-lg md:text-2xl lg:text-3xl"><span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-emerald-400">Contact</span> Me!</span>
             </h1>
         </div>
-        <div class="max-w-7xl px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
+        <div class=" px-8 mb-8 mx-8 sm:mx-6 sm:px-6 lg:mx-8 lg:px-8">
             <form action="#" class="dark">
                 <div class="relative mb-3">
                     <input type="text" type="email" id="email" class="block px-2.5 pb-2.5 pt-4 w-full text-sm text-gray-900 bg-transparent rounded-lg border-1 border-gray-300 appearance-none dark:text-white dark:border-gray-600 dark:focus:border-lime-500 focus:outline-none focus:ring-0 focus:border-lime-600 peer" placeholder=" " />

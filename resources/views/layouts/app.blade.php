@@ -47,7 +47,7 @@
             </main>
         </div>
 
-        <div class="max-w-7xl max-w-screen mx-auto py-6 bg-slate-800 px-4 sm:px-6 lg:px-8">
+        <div class=" max-w-screen mx-auto py-6 bg-slate-800 px-4 sm:px-6 lg:px-8">
             @include('layouts.footer')
         </div>
         
