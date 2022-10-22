@@ -86,11 +86,11 @@
                         
                         <div class="w-100 py-2 ">
                             <span class="bg-lime-100 text-lime-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-lime-200 dark:text-lime-800">Coming Soon</span>
-                            <a href="#" target="_tab" class="opacity-0 inline-flex items-center py-2 px-3 text-sm font-medium text-center text-lime-700 rounded-lg hover:bg-lime-800 focus:ring-4 focus:outline-none focus:ring-lime-300 border border-lime-700 dark:hover:text-white dark:hover:bg-lime-700 dark:focus:ring-lime-800">
+                            <a href="https://rentalsandfriends.com/" target="_tab" class="opacity-0 inline-flex items-center py-2 px-3 text-sm font-medium text-center text-lime-700 rounded-lg hover:bg-lime-800 focus:ring-4 focus:outline-none focus:ring-lime-300 border border-lime-700 dark:hover:text-white dark:hover:bg-lime-700 dark:focus:ring-lime-800">
                                 View Project
                                 <svg aria-hidden="true" class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                             </a>
-                            {{-- <a href="#" class="inline float-right ml-2 text-lime-900">
+                            {{-- <a href="" class="inline float-right ml-2 text-lime-900">
                                 <svg role="img" fill="currentColor" class="inline w-8 " viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
                             </a> --}}
                             {{-- <a href="https://www.figma.com/file/sl5sR86P0dqpmN34uNc6gV/Rentals%26Friends.com?node-id=0%3A1" class="inline float-right ml-2 text-lime-900">
@@ -116,13 +116,9 @@
             </h1>
             <div class="grid md:grid-cols-3 sm:grid-cols-1 gap-4">
                 <div class="max-w-sm bg-white rounded-lg border border-slate-200 shadow-md dark:bg-slate-800 dark:border-slate-700">
-                    <a href="#">
                         <img class="rounded-t-lg w-max" src="https://miro.medium.com/max/1400/0*qpHuQZHhEI3Boq5A" alt="" />
-                    </a>
                     <div class="p-5">
-                        <a href="#">
-                            <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-900 dark:text-white">Launch Day</h5>
-                        </a>
+                        <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-900 dark:text-white">Launch Day</h5>
                         <p class="mb-3 font-normal text-slate-700 dark:text-slate-400">On July 6th, 2023, I began working on Rentals&Friends. It’s been an amazing 2 months of concept to design to development to the launch today.</p>
                         <a href="https://medium.com/@nishanthkd02/rental-friends-com-day-1-42d872b7713a" class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-emerald-700 rounded-lg hover:bg-emerald-800 focus:ring-4 focus:outline-none focus:ring-emerald-300 dark:bg-emerald-600 dark:hover:bg-emerald-700 dark:focus:ring-emerald-800">
                             Read more
@@ -132,13 +128,9 @@
                 </div>
                 
                 <div class="max-w-sm bg-white rounded-lg border border-slate-200 shadow-md dark:bg-slate-800 dark:border-slate-700">
-                    <a href="#">
                         <img class="rounded-t-lg " src="https://miro.medium.com/max/1400/0*XOZHSdBZa9BPmhRG" alt="" />
-                    </a>
                     <div class="p-5">
-                        <a href="#">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-900 dark:text-white">Down the Rabbit-Hole with Figma!</h5>
-                        </a>
                         <p class="mb-3 font-normal text-slate-700 dark:text-slate-400">Prototyping is personally the most exciting and intimidating phase of product development.</p>
                         <a href="https://medium.com/@nishanthkd02/down-the-rabbit-hole-with-figma-c9fec84f7371" class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-emerald-700 rounded-lg hover:bg-emerald-800 focus:ring-4 focus:outline-none focus:ring-emerald-300 dark:bg-emerald-600 dark:hover:bg-emerald-700 dark:focus:ring-emerald-800">
                             Read more
@@ -147,15 +139,11 @@
                     </div>
                 </div>
                 <div class="max-w-sm bg-white rounded-lg border border-slate-200 shadow-md dark:bg-slate-800 dark:border-slate-700">
-                    <a href="#">
                         <img class="rounded-t-lg" src="https://miro.medium.com/max/1400/0*3dC6mGwiuFI0m83Z" alt="" />
-                    </a>
                     <div class="p-5">
-                        <a href="#">
                             <h5 class="mb-2 text-2xl font-bold tracking-tight text-slate-900 dark:text-white">Data points for Matchmaking</h5>
-                        </a>
                         <p class="mb-3 font-normal text-slate-700 dark:text-slate-400">What kind of data points best match two people who haven’t met?</p>
-                        <a href="#" class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-emerald-700 rounded-lg hover:bg-emerald-800 focus:ring-4 focus:outline-none focus:ring-emerald-300 dark:bg-emerald-600 dark:hover:bg-emerald-700 dark:focus:ring-emerald-800">
+                        <a href="https://medium.com/@nishanthkd02/data-points-for-matchmaking-dc029046b2f7" class="inline-flex items-center py-2 px-3 text-sm font-medium text-center text-white bg-emerald-700 rounded-lg hover:bg-emerald-800 focus:ring-4 focus:outline-none focus:ring-emerald-300 dark:bg-emerald-600 dark:hover:bg-emerald-700 dark:focus:ring-emerald-800">
                             Read more
                             <svg aria-hidden="true" class="ml-2 -mr-1 w-4 h-4" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                         </a>
